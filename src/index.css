@@ -1,0 +1,13 @@
+.App{
+  text-align: center;
+   background-color: #eb6664 ;
+ justify-content: center;
+  height: 90vh;
+  overflow: hidden;
+  font-weight: 700;
+  font-size: 2rem;
+  display: flex;
+   flex-direction: column; 
+  padding: 0.5rem;  
+  color: beige;
+}
